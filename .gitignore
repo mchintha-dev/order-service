@@ -29,5 +29,18 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# Compiled class files
+*.class
+
+# Build directories
+target/
+bin/
+out/
+build/
+
+# Maven or Gradle directories
+.mvn/
+.gradle/
+
 ### VS Code ###
 .vscode/
